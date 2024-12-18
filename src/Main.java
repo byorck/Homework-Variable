@@ -47,6 +47,5 @@ public class Main {
         var workersIncrease = workers + 94;
         var timeWorkDistributionIncrease = workersIncrease * workloadPerOne;
         System.out.println("Если в компании работает " + workersIncrease + " человек, то всего " + timeWorkDistributionIncrease + " часов работы может быть поделено между сотрудниками");
-
     }
 }
